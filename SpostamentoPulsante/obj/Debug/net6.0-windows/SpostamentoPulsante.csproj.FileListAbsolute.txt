@@ -1,0 +1,16 @@
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.Form1.resources
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.csproj.GenerateResource.cache
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.AssemblyInfoInputs.cache
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.AssemblyInfo.cs
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.csproj.CoreCompileInputs.cache
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.exe
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.deps.json
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.runtimeconfig.json
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.dll
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\bin\Debug\net6.0-windows\SpostamentoPulsante.pdb
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.dll
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\refint\SpostamentoPulsante.dll
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.pdb
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\SpostamentoPulsante.genruntimeconfig.cache
+C:\Users\mazzoleni.21198\source\repos\SpostamentoPulsante\obj\Debug\net6.0-windows\ref\SpostamentoPulsante.dll
